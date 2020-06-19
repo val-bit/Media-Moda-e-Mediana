@@ -23,7 +23,7 @@ A moda é representada pelo valor que mais se repete no conjunto.</p>
 como a média entre os dois valores do meio do array.</p>
 
 
->  Trouxe um código para comparação: 
+>  Trouxe um código para comparação com a solução em JAVA: 
 
 <p><b> MEDIA - Estrutura de Dados da Faculdade de Tecnologia - FATEC.</b></P>
 
