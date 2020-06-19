@@ -1,7 +1,12 @@
-# Media,Moda e Mediana
-Desafio do Programa de Aceleração em JAVA - Codenation 2020
+![Badge](https://img.shields.io/static/v1?label=JAVA&message=framework&color=red&style=for-the-badge&logo=JAVA)
 
-O intuito do Desafio  foi de nos propor a realização de calculos estatisticos comuns. 
+
+
+<h1 align="center"> Media,Moda e Mediana </h1>
+<h2 align="center"> Desafio do Programa de Aceleração em JAVA - Codenation 2020 </h2>
+
+<h3 align="justify">  O intuito do Desafio  foi de nos propor a realização de calculos estatisticos comuns. 
+ <p align="justify"> 
 
 Média:
 O método que terá o nome average deve receber um array de inteiros e retornar a média de seus valores. 
