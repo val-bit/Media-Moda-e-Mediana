@@ -5,7 +5,7 @@
 <h1 align="center"> Media,Moda e Mediana </h1>
 <h2 align="center"> Desafio do Programa de Aceleração em JAVA - Codenation 2020 </h2>
 
-<h3 align="justify"> 📌 O intuito do Desafio  foi de nos propor a realização de calculos estatisticos comuns. 
+<h3 align="justify"> 📌 O intuito do Desafio  foi desenvolver a realização de calculos estatisticos comuns. 
  </h3>
  
  -------
@@ -24,4 +24,4 @@ como a média entre os dois valores do meio do array.</p>
 
 -------
 
-> <h3> ABAIXO SEGUE UM CODIGO DE MÉDIA EM C - Extrutura de Dados da Faculdade de Tecnologia - FATEC. </h3>
+>  ABAIXO SEGUE UM CODIGO DE MÉDIA EM C - Estrutura de Dados da Faculdade de Tecnologia - FATEC. 
