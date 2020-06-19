@@ -22,6 +22,5 @@ A moda é representada pelo valor que mais se repete no conjunto.</p>
 <p align="justify">O método que terá o nome median deve receber um array de inteiros e retornar um valor inteiro contendo a mediana do conjunto. A mediana pode ser obtida ordenando os valores no array e pegando o valor que se encontra no meio do mesmo. Para arrays com quantidade par de elementos, não haverá um único valor no meio, nesse caso a mediana será definida
 como a média entre os dois valores do meio do array.</p>
 
--------
 
->  ABAIXO SEGUE UM CODIGO DE MÉDIA EM C - Estrutura de Dados da Faculdade de Tecnologia - FATEC. 
+>  SEGUE UM CODIGO DE MÉDIA EM C - Estrutura de Dados da Faculdade de Tecnologia - FATEC. 
