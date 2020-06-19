@@ -24,3 +24,30 @@ como a média entre os dois valores do meio do array.</p>
 
 
 >  SEGUE UM CODIGO DE MÉDIA EM C - Estrutura de Dados da Faculdade de Tecnologia - FATEC. 
+
+<p><b> MEDIA</b></P>
+
+
+```
+
+#include <cstdlib>
+#include <iostream>
+using namespace std;
+into dobro (int x);
+int main (int argc, char*argv[])
+{
+	int v;
+	system("CLS");
+	count <<"Digite o valor:";
+	cin>>v;
+	count<<"Dobro"= << dobro(v)<< endl;
+	system("PAUSE");
+	return EXIT_SUCCESS;
+}
+int dobro(int x)
+{
+	return(X*2);
+}
+
+```
+
