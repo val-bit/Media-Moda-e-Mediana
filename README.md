@@ -6,17 +6,17 @@
 <h2 align="center"> Desafio do Programa de Aceleração em JAVA - Codenation 2020 </h2>
 
 <h3 align="justify">  O intuito do Desafio  foi de nos propor a realização de calculos estatisticos comuns. 
- <p align="justify"> 
+ </h3>
 
-Média:
+<p align="justify"> <b>Média:</b></p>
 O método que terá o nome average deve receber um array de inteiros e retornar a média de seus valores. 
 A média pode ser obtida através da soma de todos os valores do conjunto, dividida pela quantidade de elementos do conjunto.
 
-Moda:
+<p align="justify"><b>Moda:</b></p>
 O método que terá o nome mode deve receber um array de inteiros e retornar um inteiro contendo o valor da moda do conjunto. 
 A moda é representada pelo valor que mais se repete no conjunto.
 
-Mediana:
+<p align="justify"><b>Mediana:</b></p>
 O método que terá o nome median deve receber um array de inteiros e retornar um valor inteiro contendo a mediana do conjunto. A mediana pode ser obtida ordenando os valores no array e pegando o valor que se encontra no meio do mesmo. Para arrays com quantidade par de elementos, não haverá um único valor no meio, nesse caso a mediana será definida
 como a média entre os dois valores do meio do array.
 
