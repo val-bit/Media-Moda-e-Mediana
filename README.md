@@ -23,9 +23,9 @@ A moda é representada pelo valor que mais se repete no conjunto.</p>
 como a média entre os dois valores do meio do array.</p>
 
 
->  SEGUE UM CODIGO DE MÉDIA EM C - Estrutura de Dados da Faculdade de Tecnologia - FATEC. 
+>  Trouxe um código para comparação: 
 
-<p><b> MEDIA</b></P>
+<p><b> MEDIA - Estrutura de Dados da Faculdade de Tecnologia - FATEC.</b></P>
 
 
 ```
@@ -46,7 +46,7 @@ return EXIT_SUCCESS;
 }
 int dobro(int x)
 {
-	return(X*2);
+return(X*2);
 }
 
 ```
